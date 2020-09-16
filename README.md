@@ -1,5 +1,5 @@
-# DeakinEnergy
-Project I did under SIT764
+# Deakin Energy (AEMO)
+Project I did under SIT764. A web application made using the flask framework. After upload a CSV from AEMO, you can visualize the performance of different aglorithms on predicting the energy demand. I worked on decision tree algorithm. The code and the integration of the tabs yearly trends, public holiday demand and live demand were done by me.
 
 Steps to get started with the Deakin Energy Application
 
